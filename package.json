@@ -1,0 +1,22 @@
+{
+  "name": "newpckagesk",
+  "version": "1.0.0",
+  "description": "newpackage for testing and handson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swaraj6688/newpck.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "swaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swaraj6688/newpck/issues"
+  },
+  "homepage": "https://github.com/swaraj6688/newpck#readme"
+}
